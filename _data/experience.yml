@@ -1,8 +1,23 @@
 # Jobs
 
+- company: Clik2pay
+  position: Senior Operations Developer
+  duration: April, 2021 - Present
+  summary: |
+    Lead operations for a cutting-edge fintech startup.
+    <ul class="resume-item-list">
+      <li>Automated multi-account multi-enviroment AWS infrastructure using infrastructure as code.</li>
+      <li>Reduced deployment time for applications down from 2 days to 15 minutes.</li>
+      <li>Enabled the team to deploy applications on-demand.</li>
+      <li>Set up comprehensive logging and monitoring using AWS CloudWatch and the Elastic(ELK) stack.</li>
+      <li>Promoted a culture of automation and DevOps best practices throughout the organization.</li>
+      <li>Migrated infrastructure code from CloudFormation to Terraform.</li>
+      <li>Supported security team in working towards SOC2 compliance.</li>
+    </ul>
+
 - company: AlayaCare Inc.
   position: Senior DevOps Analyst
-  duration: Nov, 2020 - Present
+  duration: Nov, 2020 - April 2021
   summary: |
     Senior resource on an automation/developer acceleration team.
     <ul class="resume-item-list">
