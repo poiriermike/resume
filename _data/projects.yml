@@ -4,12 +4,12 @@
 # donutfinder.io
 - project: bagofholding.me
   role: Primary Developer
-  duration: 2012 &mdash; Present
+  duration: 2012 &mdash; 2015
   # url: "#"
   description: Character sheet and inventory management system for pen-and-paper RPG groups.
 
 - project: manifest
   role: 
-  duration: 2017 &mdash; Present
+  duration: 2017 &mdash; 2018
   # url: "#"
   description: API server to manage Ansible inventories, groups, and hosts. 
