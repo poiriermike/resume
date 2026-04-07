@@ -1,8 +1,33 @@
 # Jobs
 
+- company: Phreesia
+  position: DevOps Manager
+  duration: January, 2024 - Present
+  summary: |
+    Lead operations for a cutting-edge fintech startup.
+    <ul class="resume-item-list">
+      <li>Implemented a tour-of-duty system for developers to share knowledge between teams via tempoarary reassignment.</li>
+      <li>Lead a team of four engineers acting as both a technical and people leader.</li>
+      <li>Migrated artifact storage from an on-premise to cloud-based Kubernetes deployment.</li>
+      <li>Managed CI/CD infrastructure for an engineering organization of over 800 engineers.</li>
+      <li>Designed and actioned a self-service ArgoCD-based system for teams to onboard and deploy applications to Kubernetes.</li>
+      <li>Locked down artifact sources to implement a software bill of materials(SBOM) pattern.</li>
+      <li>Collaborated on a migration of over 1000+ repositories and pipelines to GitLab from BitBucket server and Bamboo.</li>
+    </ul>
+
+- company: Phreesia
+  position: Senior DevOps Engineer
+  duration: December, 2022 - January, 2024
+  summary: |
+    Senior DevOps modernizing infrastructure management.
+    <ul class="resume-item-list">
+      <li>Changed deployment patterns for a datacenter virtual machine provisioning process from Jenkins to Terraform.</li>
+      <li>Implemented a hardened Virtual machine image build process.</li>
+    </ul>
+
 - company: Clik2pay
   position: Senior Operations Developer
-  duration: April, 2021 - Present
+  duration: April, 2021 - November, 2022
   summary: |
     Lead operations for a cutting-edge fintech startup.
     <ul class="resume-item-list">
